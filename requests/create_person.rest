@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Jeppe Jääkarhu",
+    "number": "123-324243"
+}
