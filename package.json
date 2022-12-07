@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/madzesu/phonebook_backend#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.2"
   },
   "dependencies": {
